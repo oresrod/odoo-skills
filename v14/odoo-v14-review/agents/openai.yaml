@@ -1,0 +1,4 @@
+interface:
+  display_name: "Odoo 14 · Revisión"
+  short_description: "Revisión de addons y cambios para Odoo 14"
+  default_prompt: "Usa $odoo-v14-review para trabajar en este addon de Odoo 14.0."

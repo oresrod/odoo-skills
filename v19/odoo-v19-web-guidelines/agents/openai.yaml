@@ -1,0 +1,4 @@
+interface:
+  display_name: "Odoo 19 · Web"
+  short_description: "JavaScript, templates y assets de Odoo 19"
+  default_prompt: "Usa $odoo-v19-web-guidelines para trabajar en este addon de Odoo 19.0."

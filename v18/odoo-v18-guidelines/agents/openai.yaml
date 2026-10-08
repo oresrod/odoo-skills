@@ -1,0 +1,4 @@
+interface:
+  display_name: "Odoo 18 · Backend"
+  short_description: "Desarrollo backend compatible con Odoo 18"
+  default_prompt: "Usa $odoo-v18-guidelines para trabajar en este addon de Odoo 18.0."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Odoo 14 · Seguridad"
+  short_description: "Auditoría de permisos y seguridad Odoo 14"
+  default_prompt: "Usa $odoo-v14-security para trabajar en este addon de Odoo 14.0."

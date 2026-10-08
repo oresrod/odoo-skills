@@ -1,0 +1,4 @@
+interface:
+  display_name: "Odoo 16 · Web"
+  short_description: "JavaScript, templates y assets de Odoo 16"
+  default_prompt: "Usa $odoo-v16-web-guidelines para trabajar en este addon de Odoo 16.0."

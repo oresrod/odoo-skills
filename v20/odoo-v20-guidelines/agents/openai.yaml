@@ -1,0 +1,4 @@
+interface:
+  display_name: "Odoo 20 · Backend"
+  short_description: "Desarrollo backend compatible con Odoo 20"
+  default_prompt: "Usa $odoo-v20-guidelines para trabajar en este addon de Odoo 20.0."

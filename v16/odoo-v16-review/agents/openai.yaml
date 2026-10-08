@@ -1,0 +1,4 @@
+interface:
+  display_name: "Odoo 16 · Revisión"
+  short_description: "Revisión de addons y cambios para Odoo 16"
+  default_prompt: "Usa $odoo-v16-review para trabajar en este addon de Odoo 16.0."

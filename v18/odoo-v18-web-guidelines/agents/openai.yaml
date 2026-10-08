@@ -1,0 +1,4 @@
+interface:
+  display_name: "Odoo 18 · Web"
+  short_description: "JavaScript, templates y assets de Odoo 18"
+  default_prompt: "Usa $odoo-v18-web-guidelines para trabajar en este addon de Odoo 18.0."

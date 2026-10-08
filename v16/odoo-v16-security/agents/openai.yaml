@@ -1,0 +1,4 @@
+interface:
+  display_name: "Odoo 16 · Seguridad"
+  short_description: "Auditoría de permisos y seguridad Odoo 16"
+  default_prompt: "Usa $odoo-v16-security para trabajar en este addon de Odoo 16.0."

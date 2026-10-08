@@ -1,0 +1,4 @@
+interface:
+  display_name: "Odoo 20 · Seguridad"
+  short_description: "Auditoría de permisos y seguridad Odoo 20"
+  default_prompt: "Usa $odoo-v20-security para trabajar en este addon de Odoo 20.0."

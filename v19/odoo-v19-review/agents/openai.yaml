@@ -1,0 +1,4 @@
+interface:
+  display_name: "Odoo 19 · Revisión"
+  short_description: "Revisión de addons y cambios para Odoo 19"
+  default_prompt: "Usa $odoo-v19-review para trabajar en este addon de Odoo 19.0."

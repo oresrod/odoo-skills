@@ -1,0 +1,4 @@
+interface:
+  display_name: "Odoo 18 · Seguridad"
+  short_description: "Auditoría de permisos y seguridad Odoo 18"
+  default_prompt: "Usa $odoo-v18-security para trabajar en este addon de Odoo 18.0."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Odoo 18 · Revisión"
+  short_description: "Revisión de addons y cambios para Odoo 18"
+  default_prompt: "Usa $odoo-v18-review para trabajar en este addon de Odoo 18.0."
